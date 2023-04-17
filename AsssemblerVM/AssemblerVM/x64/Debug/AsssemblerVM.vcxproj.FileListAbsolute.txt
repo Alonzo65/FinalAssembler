@@ -1,0 +1,2 @@
+C:\Users\Alonzo\source\repos\AsssemblerVM\x64\Debug\AsssemblerVM.exe
+C:\Users\Alonzo\source\repos\AsssemblerVM\AssemblerVM\x64\Debug\AsssemblerVM.exe
